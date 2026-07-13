@@ -1,7 +1,9 @@
 # RootCertManager / 多证书管理
 
-> A generic multi-certificate Magisk module for **SukiSU Ultra / KernelSU / Magisk / APatch**
-> that injects trusted root CAs into the system trust store on Android 14+.
+> **中文版本**: [README.zh-CN.md](README.zh-CN.md)
+
+A generic multi-certificate Magisk module for **SukiSU Ultra / KernelSU / Magisk / APatch**
+that injects trusted root CAs into the system trust store on Android 14+.
 
 Drop any `.0` certificate into `module/system/etc/security/cacerts/` and it will
 be installed into the system trust store and (on Android 14+) bind-mounted
