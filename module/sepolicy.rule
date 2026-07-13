@@ -1,0 +1,2 @@
+# SukiSU Ultra / KernelSU 通用模块 sepolicy 规则占位
+# 当前模块仅复制证书文件到只读系统分区挂载点,不需要额外 sepolicy 规则

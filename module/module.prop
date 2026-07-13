@@ -1,0 +1,7 @@
+id=root_cert_manager
+name=多证书管理
+version=1.0
+versionCode=1
+author=流水
+description=SukiSU/KernelSU 通用系统 CA 证书管理模块。把任意 .0 证书放入 system/etc/security/cacerts/ 即可自动注入;Android 14+ 自动注入 /apex/com.android.conscrypt/cacerts 并覆盖进程命名空间。赞助:https://liushuile.dpdns.org/
+updateJson=
